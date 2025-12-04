@@ -1,4 +1,4 @@
-# Backend system for a Garage
+# Backend System for a Garage
 
 The garage uses an API that will allow members to view, add, update, and remove cars from the collection.
 
